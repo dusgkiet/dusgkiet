@@ -6,6 +6,8 @@
 
 - 📫 Contact me **cgkiet314@gmail.com**
 
+[![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dustin314/" target="blank">
