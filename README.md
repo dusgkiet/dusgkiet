@@ -5,6 +5,7 @@
 <h3 align="center">I'm a 3rd-year student majoring in Software Engineering at Van Lang University</h3>
 
 - 📫 Contact me **cgkiet314@gmail.com**
+- 📄 My [CV](https://canvato.net/G23SQ)
 
 [![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
 
