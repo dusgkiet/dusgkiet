@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a 3rd-year student majoring in Software Engineering at Van Lang University</h3>
 
+[![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
+
 -   📧 Email: **cgkiet314@gmail.com**
 -   📄 My Resume: [View more](https://drive.google.com/file/d/1AtNZ-fJZFvUqoYOBqittiK_LHudd5XVf/view?usp=drivesdk)
-
-[![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
