@@ -6,5 +6,5 @@
 
 [![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
 
--   📧 Email: **cgkiet314@gmail.com**
+
 -   📄 My Resume: **[View more](https://drive.google.com/file/d/1AtNZ-fJZFvUqoYOBqittiK_LHudd5XVf/view?usp=drivesdk)**
