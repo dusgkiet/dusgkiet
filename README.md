@@ -1,8 +1,7 @@
-<p align="center">
+<!-- <p align="center">
     <img width="100%" height="100%" src="https://github.com/user-attachments/assets/6a9479a4-53bb-4b9f-8967-f979a9691b46" alt="Dusgkiet Banner" />
 
-</p>
-
+</p> -->
 
 <h1 align="center"><b>Hi , I'm Chau Gia Kiet </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <p align="center">
@@ -17,7 +16,7 @@
       <ul>
         <li>🎓 3rd-year Software Engineering student at <b>Van Lang University (VLU)</b></li>
         <li>💡 Love building web and app projects</li>
-        <li>📁 More about me: <a href="www.linkedin.com/in/dustin314" target="_blank">Portfolio</a></li>
+        <li>📁 More about me: <a href="https://www.linkedin.com/in/chaugiakiet/" target="_blank">Portfolio</a></li>
         <li>📄 My Resume: <a href="https://drive.google.com/file/d/1AtNZ-fJZFvUqoYOBqittiK_LHudd5XVf/view?usp=drivesdk" target="_blank">View here</a></li>
         <li>🚀 Open for Internship or new opportunities</li>
       </ul>
