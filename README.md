@@ -1,14 +1,15 @@
 <p align="center">
-  <img width="829" height="168" alt="Ảnh màn hình 2025-07-24 lúc 09 23 15" src="https://github.com/user-attachments/assets/37104a73-fd58-4012-9a42-ddaec7b891b1" alt="Dusgkiet Banner" width="100%" />
+    <img width="833" height="181" alt="Ảnh màn hình 2025-07-24 lúc 09 24 55" src="https://github.com/user-attachments/assets/6a9479a4-53bb-4b9f-8967-f979a9691b46" alt="Dusgkiet Banner" width="100%" />
+
 </p>
 
 
 <h1 align="center"><b>Hi , I'm Chau Gia Kiet </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!-- <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Can+call+me+Dustin!;"/>
-</p>
+</p> -->
 
-[![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
+
 
 ---
 
@@ -30,3 +31,5 @@
     </td>
   </tr>
 </table>
+
+[![](https://komarev.com/ghpvc/?username=dusgkiet)](https://github.com/dusgkiet)
