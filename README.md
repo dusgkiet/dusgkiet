@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="833" height="181" alt="Ảnh màn hình 2025-07-24 lúc 09 24 55" src="https://github.com/user-attachments/assets/6a9479a4-53bb-4b9f-8967-f979a9691b46" alt="Dusgkiet Banner" width="100%" />
+    <img width="100%" height="100%" src="https://github.com/user-attachments/assets/6a9479a4-53bb-4b9f-8967-f979a9691b46" alt="Dusgkiet Banner" />
 
 </p>
 
