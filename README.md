@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td align="center" width="280">
-      <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" alt="Coder" width="90%"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coder" width="90%"/>
     </td>
   </tr>
 </table>
