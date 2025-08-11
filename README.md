@@ -14,10 +14,10 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 3rd-year Software Engineering student at <b>Van Lang University (VLU)</b></li>
-        <li>📁 More about me: <a href="https://www.linkedin.com/in/chaugiakiet/" target="_blank">Portfolio</a></li>
-        <li>📄 My Resume: <a href="https://drive.google.com/file/d/1AtNZ-fJZFvUqoYOBqittiK_LHudd5XVf/view?usp=drivesdk" target="_blank">View here</a></li>
-        <li>📌 Open for Internship or new opportunities</li>
+        <li> 3rd-year Software Engineering student at <b>Van Lang University (VLU)</b></li>
+        <li> More about me: <a href="https://www.linkedin.com/in/chaugiakiet/" target="_blank">Portfolio</a></li>
+        <li> My Resume: <a href="https://drive.google.com/file/d/1AtNZ-fJZFvUqoYOBqittiK_LHudd5XVf/view?usp=drivesdk" target="_blank">View here</a></li>
+        <li> Open for Internship or new opportunities</li>
       </ul>
     </td>
     <td align="center" width="280">
