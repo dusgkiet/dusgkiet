@@ -11,7 +11,7 @@
 ## About me
 
 <table>
-  <tr>
+  <tr width="100%">
     <td>
       <ul>
         <li> 3rd-year Software Engineering student at <b>Van Lang University (VLU)</b></li>
