@@ -15,7 +15,7 @@
     <td>
       <ul>
         <li> 3rd-year Software Engineering student at <b>Van Lang University (VLU)</b></li>
-        <li> More about me: <a href="https://gkiet-portfolio.vercel.app/" target="_blank">Portfolio</a></li>
+        <li> More about me: <a href="https://ckiet-portfolio.vercel.app/" target="_blank">Portfolio</a></li>
         <li> Open for Internship or new opportunities</li>
       </ul>
     </td>
